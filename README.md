@@ -1,4 +1,4 @@
-Taken from Manjaro forums. This contains the proper files to compile Nvidia Drivers 340 into Kernels 5.4 and 5.10. So far I tested this on 5.4, 5.9 (so far no problems at all) and 5.10.
+Taken from Manjaro forums. This contains the proper files to compile Nvidia Drivers 340 into Kernels 5.4 and 5.10. So far I tested this on 5.4, 5.9 (no problems at all) and 5.10.
 
 In order to do this, your system needs development tools. Those can be installed with the following command: sudo pacman -S git base-devel
 
